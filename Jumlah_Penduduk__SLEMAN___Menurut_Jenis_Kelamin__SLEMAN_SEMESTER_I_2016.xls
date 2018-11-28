@@ -1,0 +1,298 @@
+	<style>
+		td{border:#000000 solid 1px;}
+		th{border:#000000 solid 1px;}	
+	</style>
+    
+
+	<h3>Jumlah Penduduk  SLEMAN   Menurut Jenis Kelamin<br>
+	<span style='text-transform: capitalize'> SLEMAN</span><br>
+	SEMESTER I 2016 
+	</h3>
+	<div class='tabscroll'><table>
+	<tr>
+	<th border='1' bordercolor='#000000'  rowspan='2'>Kecamatan</th>
+	<th border='1' bordercolor='#000000'  colspan='3'>Penduduk</th>
+	
+	</tr>
+	
+	<tr>
+	<th border='1' bordercolor='#000000' >L</th>
+	<th border='1' bordercolor='#000000' >P</th>
+	<th border='1' bordercolor='#000000' >L+P</th></tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=1&kel=00'>GAMPING</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				46.471  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				45.828
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				92.299
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=2&kel=00'>GODEAN</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				35.633  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				34.889
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				70.522
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=3&kel=00'>MOYUDAN</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				17.524  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				17.860
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				35.384
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=4&kel=00'>MINGGIR</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				16.929  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				17.480
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				34.409
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=5&kel=00'>SEYEGAN</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				25.343  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				25.488
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				50.831
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=6&kel=00'>MLATI</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				45.037  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				44.629
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				89.666
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=7&kel=00'>DEPOK</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				62.577  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				60.860
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				123.437
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=8&kel=00'>BERBAH</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				28.490  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				28.419
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				56.909
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=9&kel=00'>PRAMBANAN</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				27.343  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				27.074
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				54.417
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=10&kel=00'>KALASAN</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				43.058  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				41.677
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				84.735
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=11&kel=00'>NGEMPLAK</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				29.926  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				30.199
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				60.125
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=12&kel=00'>NGAGLIK</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				48.058  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				47.545
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				95.603
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=13&kel=00'>SLEMAN</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				34.895  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				34.836
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				69.731
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=14&kel=00'>TEMPEL</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				27.264  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				27.143
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				54.407
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=15&kel=00'>TURI</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				18.640  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				18.552
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				37.192
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=16&kel=00'>PAKEM</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				18.641  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				18.896
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				37.537
+			</td>
+			
+		
+		</tr><tr>
+			<td border='1' bordercolor='#000000'  border='1' bordercolor='#000000' >
+				<a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=04&kec=17&kel=00'>CANGKRINGAN</a>
+			</td>
+			
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				15.748  
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik'>
+				16.101
+			</td>
+			<td border='1' bordercolor='#000000'  class='angka statistik jumstat'>
+				31.849
+			</td>
+			
+		
+		</tr><tr><th border='1' bordercolor='#000000' >Jumlah</th>
+			<th border='1' bordercolor='#000000'  class='angka statistik'>541.577</th>
+			<th border='1' bordercolor='#000000'  class='angka statistik'>537.476</th>
+			<th border='1' bordercolor='#000000'  class='angka statistik'>1.079.053</th>
+		
+		<tr></table><a href='http://www.kependudukan.jogjaprov.go.id/olah.php?module=statistik&periode=5&jenisdata=penduduk&berdasarkan=jumlahpenduduk&prop=34&kab=00&kec=00&kel=00'><i class='uk-icon-chevron-circle-left'></i> kembali</a><div class='uk-badge uk-badge-danger'><i class='uk-icon-umbrella'></i> sumber</div> <span  style='font-size:12px; font-weight:bold;color:#B00004;'>Data Hasil Konsolidasi dan Pembersihan Database Kependudukan oleh Ditjen Kependudukan dan Pencatatan Sipil Kemendagri, diolah Bagian Kependudukan Biro Tata Pemerintahan Setda DIY</span></div>
